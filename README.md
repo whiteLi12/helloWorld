@@ -5,6 +5,7 @@
 运行结果：
 ![](https://github.com/whiteLi12/helloWorld/blob/master/img/2.png)
 代码：
+```
 package com.example.myapplication;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -47,3 +48,4 @@ public class MainActivity extends AppCompatActivity{
         Log.i("MainActivity","调用ononRestart()");
     }
 }
+```
