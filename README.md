@@ -1,9 +1,9 @@
-#1 创建helloworld Android 工程并同步GitHub
+# 1 创建helloworld Android 工程并同步GitHub
 运行结果：
-(https://github.com/whiteLi12/helloWorld/blob/master/img/1.png)
-#2. 验证Activity的生命周期
+![](https://github.com/whiteLi12/helloWorld/blob/master/img/1.png)
+# 2. 验证Activity的生命周期
 运行结果：
-(https://github.com/whiteLi12/helloWorld/blob/master/img/2.png)
+![](https://github.com/whiteLi12/helloWorld/blob/master/img/2.png)
 代码：
 package com.example.myapplication;
 import android.support.v7.app.AppCompatActivity;
